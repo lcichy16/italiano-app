@@ -1,0 +1,271 @@
+[
+  {
+    "id": "daily-life",
+    "title": "Życie codzienne",
+    "words": [
+      {
+        "polish": "dzień",
+        "italian": "giorno",
+        "example": "Dzień jest słoneczny.",
+        "example_translation": "Il giorno è soleggiato."
+      },
+      {
+        "polish": "dom",
+        "italian": "casa",
+        "example": "Mieszkam w dużym domu.",
+        "example_translation": "Abito in una grande casa."
+      }
+    ]
+  },
+  {
+  "id": "days-of-week",
+  "title": "Dni tygodnia",
+  "words": [
+    {
+      "polish": "poniedziałek",
+      "italian": "lunedì",
+      "example": "W poniedziałek idę do pracy.",
+      "example_translation": "Il lunedì vado al lavoro."
+    },
+    {
+      "polish": "wtorek",
+      "italian": "martedì",
+      "example": "Wtorek jest moim ulubionym dniem.",
+      "example_translation": "Il martedì è il mio giorno preferito."
+    },
+    {
+      "polish": "środa",
+      "italian": "mercoledì",
+      "example": "W środę mam lekcję włoskiego.",
+      "example_translation": "Il mercoledì ho lezione di italiano."
+    },
+    {
+      "polish": "czwartek",
+      "italian": "giovedì",
+      "example": "W czwartek spotykamy się ze znajomymi.",
+      "example_translation": "Il giovedì ci incontriamo con gli amici."
+    },
+    {
+      "polish": "piątek",
+      "italian": "venerdì",
+      "example": "Piątek to dzień filmu.",
+      "example_translation": "Il venerdì è il giorno del film."
+    },
+    {
+      "polish": "sobota",
+      "italian": "sabato",
+      "example": "W sobotę robię zakupy.",
+      "example_translation": "Il sabato faccio la spesa."
+    },
+    {
+      "polish": "niedziela",
+      "italian": "domenica",
+      "example": "W niedzielę odpoczywam.",
+      "example_translation": "La domenica mi riposo."
+    }
+  ]
+},
+{
+  "id": "months",
+  "title": "Miesiące",
+  "words": [
+    {
+      "polish": "styczeń",
+      "italian": "gennaio",
+      "example": "Urodziłem się w styczniu.",
+      "example_translation": "Sono nato a gennaio."
+    },
+    {
+      "polish": "luty",
+      "italian": "febbraio",
+      "example": "Luty to najkrótszy miesiąc.",
+      "example_translation": "Febbraio è il mese più corto."
+    },
+    {
+      "polish": "marzec",
+      "italian": "marzo",
+      "example": "W marcu zaczyna się wiosna.",
+      "example_translation": "A marzo inizia la primavera."
+    },
+    {
+      "polish": "kwiecień",
+      "italian": "aprile",
+      "example": "W kwietniu często pada deszcz.",
+      "example_translation": "Ad aprile piove spesso."
+    },
+    {
+      "polish": "maj",
+      "italian": "maggio",
+      "example": "Maj to mój ulubiony miesiąc.",
+      "example_translation": "Maggio è il mio mese preferito."
+    },
+    {
+      "polish": "czerwiec",
+      "italian": "giugno",
+      "example": "Czerwiec to początek lata.",
+      "example_translation": "Giugno è l'inizio dell'estate."
+    },
+    {
+      "polish": "lipiec",
+      "italian": "luglio",
+      "example": "W lipcu mam wakacje.",
+      "example_translation": "A luglio ho le vacanze."
+    },
+    {
+      "polish": "sierpień",
+      "italian": "agosto",
+      "example": "W sierpniu jest gorąco.",
+      "example_translation": "Ad agosto fa caldo."
+    },
+    {
+      "polish": "wrzesień",
+      "italian": "settembre",
+      "example": "Wrzesień to początek szkoły.",
+      "example_translation": "Settembre è l'inizio della scuola."
+    },
+    {
+      "polish": "październik",
+      "italian": "ottobre",
+      "example": "W październiku liście zmieniają kolor.",
+      "example_translation": "A ottobre le foglie cambiano colore."
+    },
+    {
+      "polish": "listopad",
+      "italian": "novembre",
+      "example": "W listopadzie często pada deszcz.",
+      "example_translation": "A novembre piove spesso."
+    },
+    {
+      "polish": "grudzień",
+      "italian": "dicembre",
+      "example": "Grudzień to miesiąc świąt.",
+      "example_translation": "Dicembre è il mese delle feste."
+    }
+  ]
+},
+{
+  "id": "numbers",
+  "title": "Liczby",
+  "words": [
+    { "polish": "jeden", "italian": "uno" },
+    { "polish": "dwa", "italian": "due" },
+    { "polish": "trzy", "italian": "tre" },
+    { "polish": "cztery", "italian": "quattro" },
+    { "polish": "pięć", "italian": "cinque" },
+    { "polish": "sześć", "italian": "sei" },
+    { "polish": "siedem", "italian": "sette" },
+    { "polish": "osiem", "italian": "otto" },
+    { "polish": "dziewięć", "italian": "nove" },
+    { "polish": "dziesięć", "italian": "dieci" },
+    { "polish": "jedenaście", "italian": "undici" },
+    { "polish": "dwanaście", "italian": "dodici" },
+    { "polish": "trzynaście", "italian": "tredici" },
+    { "polish": "czternaście", "italian": "quattordici" },
+    { "polish": "piętnaście", "italian": "quindici" },
+    { "polish": "szesnaście", "italian": "sedici" },
+    { "polish": "siedemnaście", "italian": "diciassette" },
+    { "polish": "osiemnaście", "italian": "diciotto" },
+    { "polish": "dziewiętnaście", "italian": "diciannove" },
+    { "polish": "dwadzieścia", "italian": "venti" },
+
+    { "polish": "trzydzieści", "italian": "trenta" },
+    { "polish": "czterdzieści", "italian": "quaranta" },
+    { "polish": "pięćdziesiąt", "italian": "cinquanta" },
+    { "polish": "sześćdziesiąt", "italian": "sessanta" },
+    { "polish": "siedemdziesiąt", "italian": "settanta" },
+    { "polish": "osiemdziesiąt", "italian": "ottanta" },
+    { "polish": "dziewięćdziesiąt", "italian": "novanta" },
+    { "polish": "sto", "italian": "cento" },
+    { "polish": "dwieście", "italian": "duecento" },
+    { "polish": "trzysta", "italian": "trecento" },
+    { "polish": "czterysta", "italian": "quattrocento" },
+    { "polish": "pięćset", "italian": "cinquecento" },
+    { "polish": "sześćset", "italian": "seicento" },
+    { "polish": "siedemset", "italian": "settecento" },
+    { "polish": "osiemset", "italian": "ottocento" },
+    { "polish": "dziewięćset", "italian": "novecento" },
+    { "polish": "tysiąc", "italian": "mille" }
+  ]
+},
+{
+  "id": "greetings",
+  "title": "Powitania i zwroty grzecznościowe",
+  "words": [
+    {
+      "polish": "Cześć",
+      "italian": "Ciao",
+      "example": "Cześć, jak się masz?",
+      "example_translation": "Ciao, come stai?"
+    },
+    {
+      "polish": "Dzień dobry",
+      "italian": "Buongiorno",
+      "example": "Dzień dobry, panie Kowalski.",
+      "example_translation": "Buongiorno, signor Kowalski."
+    },
+    {
+      "polish": "Dobry wieczór",
+      "italian": "Buonasera",
+      "example": "Dobry wieczór, miło cię widzieć.",
+      "example_translation": "Buonasera, è un piacere vederti."
+    },
+    {
+      "polish": "Dobranoc",
+      "italian": "Buonanotte",
+      "example": "Dobranoc i śpij dobrze.",
+      "example_translation": "Buonanotte e dormi bene."
+    },
+    {
+      "polish": "Do widzenia",
+      "italian": "Arrivederci",
+      "example": "Do widzenia, do jutra!",
+      "example_translation": "Arrivederci, a domani!"
+    },
+    {
+      "polish": "Do zobaczenia",
+      "italian": "A presto",
+      "example": "Do zobaczenia później.",
+      "example_translation": "A presto, ci vediamo più tardi."
+    },
+    {
+      "polish": "Jak się masz?",
+      "italian": "Come stai?",
+      "example": "Hej, jak się masz?",
+      "example_translation": "Ciao, come stai?"
+    },
+    {
+      "polish": "Dziękuję",
+      "italian": "Grazie",
+      "example": "Dziękuję za pomoc.",
+      "example_translation": "Grazie per l’aiuto."
+    },
+    {
+      "polish": "Proszę",
+      "italian": "Prego",
+      "example": "Dziękuję – Proszę.",
+      "example_translation": "Grazie – Prego."
+    },
+    {
+      "polish": "Przepraszam",
+      "italian": "Mi scusi / Scusa",
+      "example": "Przepraszam za spóźnienie.",
+      "example_translation": "Scusa per il ritardo."
+    },
+    {
+      "polish": "Nie ma sprawy",
+      "italian": "Di niente",
+      "example": "Dziękuję! – Nie ma sprawy.",
+      "example_translation": "Grazie! – Di niente."
+    },
+    {
+      "polish": "Miło cię poznać",
+      "italian": "Piacere di conoscerti",
+      "example": "Cześć, miło cię poznać.",
+      "example_translation": "Ciao, piacere di conoscerti."
+    }
+  ]
+}
+
+
+
+]

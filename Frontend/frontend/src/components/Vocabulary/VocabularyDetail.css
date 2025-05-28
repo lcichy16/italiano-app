@@ -1,0 +1,103 @@
+.vocabulary-detail-wrapper {
+  padding: 2rem;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.vocabulary-detail-title {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 2rem;
+  color: #2c3e50;
+}
+
+.vocabulary-table {
+  width: 100%;
+  border-collapse: collapse;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+  font-size: 1rem;
+}
+
+.vocabulary-table th,
+.vocabulary-table td {
+  padding: 1rem;
+  text-align: left;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.vocabulary-table th {
+  background-color: #f0f4f8;
+  color: #34495e;
+  font-weight: 600;
+}
+
+.vocabulary-table td {
+  background-color: #ffffff;
+  color: #555;
+}
+
+.vocabulary-table tr:hover td {
+  background-color: #f9f9f9;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 2rem;
+  color: #3498db;
+  font-weight: 500;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.back-link:hover {
+  color: #2c3e50;
+}
+
+/* 🔽 MOBILE VIEW */
+@media (max-width: 768px) {
+  .vocabulary-table {
+    border: none;
+  }
+
+  .vocabulary-table thead {
+    display: none;
+  }
+
+  .vocabulary-table tr {
+    display: block;
+    margin-bottom: 1.5rem;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    padding: 1rem;
+  }
+
+  .vocabulary-table td {
+    display: flex;
+    justify-content: space-between;
+    padding: 0.5rem 0;
+    border: none;
+    font-size: 1rem;
+  }
+
+  .vocabulary-table td:nth-child(1)::before {
+    content: "Polski:";
+    font-weight: bold;
+    margin-right: 1rem;
+    color: #34495e;
+  }
+
+  .vocabulary-table td:nth-child(2)::before {
+    content: "Włoski:";
+    font-weight: bold;
+    margin-right: 1rem;
+    color: #34495e;
+  }
+
+  .vocabulary-table td:nth-child(n+3) {
+    display: none;
+  }
+}
